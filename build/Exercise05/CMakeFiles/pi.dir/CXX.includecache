@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/user/0/loutera/Documents/3a/calculsurGPU/Lab1-Sources/Common/util.hpp
+sys/time.h
+-
+stdint.h
+-
+unistd.h
+-
+iostream
+-
+fstream
+-
+string
+-
+cstdlib
+-
+
+/user/0/loutera/Documents/3a/calculsurGPU/Lab1-Sources/Exercise05/pi.cpp
+util.hpp
+/user/0/loutera/Documents/3a/calculsurGPU/Lab1-Sources/Exercise05/util.hpp
+iostream
+-
+

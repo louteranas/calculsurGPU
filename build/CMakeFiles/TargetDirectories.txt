@@ -1,0 +1,17 @@
+/user/0/loutera/Documents/3a/calculsurGPU/build/CMakeFiles/rebuild_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/CMakeFiles/edit_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise01/CMakeFiles/rebuild_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise01/CMakeFiles/edit_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise01/CMakeFiles/DeviceInfo.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise02/CMakeFiles/rebuild_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise02/CMakeFiles/edit_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise02/CMakeFiles/vadd02.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise03/CMakeFiles/rebuild_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise03/CMakeFiles/edit_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise03/CMakeFiles/vadd03.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise04/CMakeFiles/rebuild_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise04/CMakeFiles/edit_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise04/CMakeFiles/matmul.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise05/CMakeFiles/rebuild_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise05/CMakeFiles/edit_cache.dir
+/user/0/loutera/Documents/3a/calculsurGPU/build/Exercise05/CMakeFiles/pi.dir

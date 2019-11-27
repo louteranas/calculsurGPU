@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-8/root/usr/bin/c++  -Wno-deprecated-declarations -std=c++0x  -rdynamic CMakeFiles/vadd02.dir/vadd.cpp.o  -o vadd02 -lOpenCL 

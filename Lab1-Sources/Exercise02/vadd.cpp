@@ -65,7 +65,7 @@ int main(int argc, char *argv[])
         // Check device index in range
         if (deviceIndex >= numDevices)
         {
-            std::cout << "Invalid device index (try '--list')\n";
+            std::cout << deviceIndex <<" Invalid device index (try '--list')\n";
             return EXIT_FAILURE;
         }
 

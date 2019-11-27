@@ -40,6 +40,10 @@ int main(int argc, char *argv[])
 {
   std::vector<float> h_a(LENGTH);                // a vector
   std::vector<float> h_b(LENGTH);                // b vector
+  std::vector<float> h_e(LENGTH);                // a vector
+  std::vector<float> h_d(LENGTH);                // b vector
+  std::vector<float> h_f(LENGTH);                // a vector
+  std::vector<float> h_g(LENGTH);                // b vector
   std::vector<float> h_c(LENGTH, 0xdeadbeef);    // c = a + b, from compute device
 
   cl::Buffer d_a;                        // device memory used for the input  a vector
@@ -52,6 +56,8 @@ int main(int argc, char *argv[])
   {
     h_a[i]  = rand() / (float)RAND_MAX;
     h_b[i]  = rand() / (float)RAND_MAX;
+    h_e[i]  = rand() / (float)RAND_MAX;
+    h_g[i]  = rand() / (float)RAND_MAX;
   }
 
   try
